@@ -101,7 +101,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-white">
       {/* ================= NAVBAR ================= */}
-      <div className="max-w-7xl mx-auto">
+      <div className="w-full mx-auto">
         <nav className="flex items-center justify-between px-10 py-6">
           {/* Logo */}
           <div className="text-3xl font-extrabold tracking-wide">
